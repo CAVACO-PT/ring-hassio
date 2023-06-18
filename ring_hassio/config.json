@@ -27,7 +27,7 @@
         "port": 3000
     },
     "schema": {
-        "ring_refresh_token":"str",
+        "refreshToken":"str",
         "camera_name": "str",
         "port":"port"
     },
